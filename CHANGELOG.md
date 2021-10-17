@@ -12,6 +12,11 @@
 ## Releasing
 | Hash | Date | Author | Changes |
 |------|------|--------|---------|
+
+
+ ## Tag: `v0.1.2, origin/main`
+| Hash | Date | Author | Changes |
+|------|------|--------|---------|
 | cb8f25fb5e501e247a7df1b84684d5645299d0c9 | 2021-10-04 | Chris Schubert | Code cleanup and refactoring |
 
 
