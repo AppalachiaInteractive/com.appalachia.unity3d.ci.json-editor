@@ -12,9 +12,15 @@
 ## Releasing
 | Hash | Date | Author | Changes |
 |------|------|--------|---------|
+| 072e970d5c1ef4137a23192286441130833e9443 | 2021-10-17 | Chris Schubert | Fixing package jsons |
 
 
- ## Tag: `v0.1.2, origin/main`
+ ## Tag: `v0.1.3`
+| Hash | Date | Author | Changes |
+|------|------|--------|---------|
+
+
+ ## Tag: `v0.1.2`
 | Hash | Date | Author | Changes |
 |------|------|--------|---------|
 | cb8f25fb5e501e247a7df1b84684d5645299d0c9 | 2021-10-04 | Chris Schubert | Code cleanup and refactoring |
