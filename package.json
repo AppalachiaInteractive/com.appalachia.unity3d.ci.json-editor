@@ -1,6 +1,6 @@
 {
   "name": "com.appalachia.unity3d.ci.text-editor",
-  "displayName": "Json Editor for Unity3D",
+  "displayName": "Appalachia.CI.TextEditor for Unity3D",
   "version": "0.1.3",
   "unity": "2020.3",
   "description": "JSON Editor drawer for Unity3D text assets.",
@@ -11,7 +11,7 @@
   "category": "Tool",
   "license": "SEE LICENSE IN LICENSE.MD",
   "author": {
-    "name": "Paul Lavender-Jones"
+    "name": "Appalachia Interactive"
   },
   "dependencies": {},
   "repository": {
